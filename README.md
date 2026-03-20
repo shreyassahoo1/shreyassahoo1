@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋🏻 Hi, I’m Shreyas
 
-<!--
-**shreyassahoo1/shreyassahoo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science & Engineering @ RVCE
+Building projects that matter - I create for Technology, AI, Finance, and Healthcare. I'm also passionate about Global Markets and Investments.
+Driven by curiosity, execution, and long-term value creation.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, C, JavaScript  
+**AI/ML:** Transformers, SINDy, Scikit-learn  
+**Systems:** TCP Networking, Multithreading, OS Concepts  
+**Frameworks:** FastAPI, Flask, React, Tkinter  
+
+## 📫 You can connect with me here:
+
+🔗 LinkedIn: https://www.linkedin.com/in/shreyas-sahoo-6b4782317/
