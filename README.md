@@ -1,6 +1,6 @@
 ## 👋🏻 Hi, I’m Shreyas
 
-🎓 Information Science & Engineering @ RVCE
+🎓 Information Science & Engineering @ RVCE (Sophomore) 
 
 Building projects that matter - I create for Technology, AI, Finance, and Healthcare. I'm also passionate about Global Markets and Investments.
 Driven by curiosity, execution, and long-term value creation.
