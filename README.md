@@ -16,4 +16,4 @@ Driven by curiosity, execution, and long-term value creation.
 
 🔗 LinkedIn: https://www.linkedin.com/in/shreyas-sahoo-6b4782317/
 
-🔗 Quora:    https://www.quora.com/profile/Shreyas-Sahoo-2
+
