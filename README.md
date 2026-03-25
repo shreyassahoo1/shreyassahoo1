@@ -12,7 +12,7 @@ Driven by curiosity, execution, and long-term value creation.
 **Systems:** TCP Networking, Multithreading, OS Concepts  
 **Frameworks:** FastAPI, Flask, React, Tkinter  
 
-## 📫 You can connect with me here:
+##  You can connect with me here:
 
 🔗 LinkedIn: https://www.linkedin.com/in/shreyas-sahoo-6b4782317/
 
