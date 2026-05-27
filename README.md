@@ -9,7 +9,6 @@ Driven by curiosity, execution, and long-term value creation.
 
 **Languages:** Python, C, JavaScript  
 **AI/ML:** Transformers, SINDy, Scikit-learn  
-**Systems:** TCP Networking, Multithreading, OS Concepts  
 **Frameworks:** FastAPI, Flask, React, Tkinter  
 
 ##  You can connect with me here:
