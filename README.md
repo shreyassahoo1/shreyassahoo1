@@ -2,7 +2,9 @@
 
 🎓 Information Science & Engineering @ RVCE (Sophomore) 
 
-Building projects that matter - I create for Technology, AI, Finance, and Healthcare. I also research on Global Markets and enhance my learning about Investments & Business Management. 
+Building projects that matter - I create for Technology, AI, Finance, and Healthcare. 
+
+I also research on Global Markets and enhance my learning about Investments & Business Management. 
 Driven by curiosity, execution, and long-term value creation.
 
 ## 💻 Tech Stack
