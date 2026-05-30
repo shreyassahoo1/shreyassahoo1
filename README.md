@@ -8,7 +8,6 @@ Driven by curiosity, execution, and long-term value creation.
 ## 🛠️ Tech Stack
 
 **Languages:** Python, C, JavaScript  
-**AI/ML:** Transformers, SINDy, Scikit-learn  
 **Frameworks:** FastAPI, Flask, React, Tkinter  
 
 ##  You can connect with me here:
