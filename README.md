@@ -4,13 +4,13 @@
 
 Building projects that matter - I create for Technology, AI, Finance, and Healthcare. 
 
-I also research on Global Markets and enhance my learning about Investments & Business Management. 
+I also research about Global Markets and enhance my learning about Business Management, Operations, and finding new Investment Opportunities. 
 Driven by curiosity, execution, and long-term value creation.
 
 ## 💻 Tech Stack
 
-**Languages:** Python, C, C++, JavaScript  
-**Frameworks:** FastAPI, Flask, React, Tkinter  
+**Languages:** C, C++, JavaScript, Python
+**Frameworks:** FastAPI, Flask, React, FAISS, LangChain
 
 ##  You can connect with me here:
 
