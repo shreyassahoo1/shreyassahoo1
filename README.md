@@ -10,6 +10,7 @@ Driven by curiosity, execution, and long-term value creation.
 ## 💻 Tech Stack
 
 **Languages:** C, C++, JavaScript, Python
+
 **Frameworks:** FastAPI, Flask, React, FAISS, LangChain
 
 ##  You can connect with me here:
