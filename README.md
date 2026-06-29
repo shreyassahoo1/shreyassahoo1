@@ -11,7 +11,7 @@ Driven by curiosity, execution, and long-term value creation.
 
 **Languages:** C, C++, JavaScript, Python
 
-**Frameworks:** FastAPI, Flask, React, FAISS, LangChain
+**Frameworks:** LangChain, FastAPI, Flask, React, FAISS
 
 ##  You can connect with me here:
 
