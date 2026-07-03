@@ -7,7 +7,7 @@ Building projects that matter - I create for Technology, AI, Finance, and Health
 I also research about Global Markets and enhance my learning about Business Management, Operations, and finding new Investment Opportunities. 
 Driven by curiosity, execution, and long-term value creation.
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Languages:** C, C++, JavaScript, Python
 
