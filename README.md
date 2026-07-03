@@ -1,4 +1,4 @@
-## 👋🏻 Hey, I’m Shreyas
+## Hey, I’m Shreyas
 
 🎓 Information Science & Engineering @ RVCE (Sophomore) 
 
