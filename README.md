@@ -2,7 +2,7 @@
 
 🎓 Information Science & Engineering @ RVCE, India 
 
-Building projects that matter - I create for Technology, AI, Finance, and Healthcare. 
+Building projects that matter to the world - I create for Technology, AI, Finance, and Healthcare. 
 
 I also research about Global Markets and enhance my learning about Business Management, Operations, and finding new Investment Opportunities. 
 Driven by curiosity, execution, and long-term value creation.
