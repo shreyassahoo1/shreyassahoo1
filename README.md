@@ -13,6 +13,8 @@ Driven by curiosity, execution, and long-term value creation.
 
 **Frameworks:** LangChain, FastAPI, Flask, React, FAISS
 
+**Databases:** MySQL, MongoDB
+
 ##  Connect with me here:
 
 🔗 LinkedIn: https://www.linkedin.com/in/shreyas-sahoo-6b4782317/
