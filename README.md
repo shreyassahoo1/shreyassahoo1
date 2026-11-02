@@ -15,6 +15,6 @@ Driven by curiosity, execution, and long-term value creation.
 
 **Databases:** MySQL, MongoDB
 
-##  Connect with me here:
+##  Connect with me
 
 🔗 LinkedIn: https://www.linkedin.com/in/shreyas-sahoo-6b4782317/
