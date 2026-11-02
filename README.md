@@ -19,6 +19,6 @@ Driven by curiosity, execution, and long-term value creation.
 
 🔗 LinkedIn: https://www.linkedin.com/in/shreyas-sahoo-6b4782317/
 
-##  Watch my contributions get eaten!
+##  
 
 ![GitHub Snake](https://raw.githubusercontent.com/shreyassahoo1/shreyassahoo1/output/github-contribution-grid-snake.svg)
