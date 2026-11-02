@@ -9,11 +9,14 @@ Driven by curiosity, execution, and long-term value creation.
 
 ## Tech Stack
 
-**Languages:** C, C++, JavaScript, Python [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python)](https://skillicons.dev)
+**Languages:** C, C++, JavaScript, Python 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python)](https://skillicons.dev)
 
-**Frameworks:** LangChain, FastAPI, Flask, React, FAISS [![My Skills](https://skillicons.dev/icons?i=langchain,fastapi,flask,react)](https://skillicons.dev)
+**Frameworks:** LangChain, FastAPI, Flask, React, FAISS 
+[![My Skills](https://skillicons.dev/icons?i=langchain,fastapi,flask,react)](https://skillicons.dev)
 
-**Databases:** MySQL, MongoDB [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+**Databases:** MySQL, MongoDB 
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 ##  Connect with me
 
