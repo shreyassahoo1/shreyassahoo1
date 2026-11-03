@@ -18,7 +18,6 @@ Driven by curiosity, execution, and long-term value creation.
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,python)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=langchain,fastapi,flask,react)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql, mongodb)](https://skillicons.dev)
 
 ##  Connect with me
 
